@@ -30,3 +30,34 @@ console.log(opm);
 
 let oppp = 10; oppp++;
 console.log(oppp);
+
+//data types//
+let lastName = "Stefanov"; //string//
+let number = 154;         //number//
+let i = 7;                //Booleans//
+let l = 7; 
+let d = (i == l)
+console.log (d);
+let test = false;
+let dd = null;               //null//
+let fridge;                  //undefined//
+
+if(i<0){
+    console.log ("u re dumb")}
+    else {
+        console.log ("u re smart")
+    };
+    if(i>0){
+        console.log ("u re dumb")}
+        else {
+            console.log ("u re smart")
+        };
+        if(i => 0){
+            console.log ("=>")}
+            else {
+                console.log ("l")
+            };
+        if(i == 0){
+                console.log ("=>")}
+ else {
+     console.log ("l") };
